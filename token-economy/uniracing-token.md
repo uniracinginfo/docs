@@ -1,4 +1,4 @@
-# 💎 RACEFI (Governance Token)
+# 💎 UNIRACING Token
 
 **Name: UNI RACING Token**
 
