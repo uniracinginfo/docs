@@ -59,6 +59,6 @@
 * [👨💻 Balancing via Governance](governance/balancing-via-governance.md)
 * [👨💼 Governance incentives](governance/governance-incentives.md)
 
-## © RACEFI | All RIGHT RESERVED 2021
+## © UNIRACING | All RIGHT RESERVED 2021
 
-* [Disclaimers](c-racefi-or-all-right-reserved-2021/disclaimers.md)
+* [Disclaimers](c-uniracing-or-all-right-reserved-2021/disclaimers.md)
