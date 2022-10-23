@@ -8,3 +8,11 @@
 ## Token Economy
 
 * [💎 RACEFI (Governance Token)](token-economy/racefi-governance-token.md)
+
+## Cars
+
+* [🏎 Car Assets](cars/car-assets.md)
+
+***
+
+* [ℹ Cars Rarity Resource](cars-rarity-resource.md)

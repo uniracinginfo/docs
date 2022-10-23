@@ -20,4 +20,4 @@ Therefore, to improve this problem, we established the Fair Entry Strategy.
 
 We believe that games should be affordable to start playing no matter how long a game has been around. For this reason, we endeavor to always have a Rookie car available for a new player to buy at around $**20** USD. We also value car in all of our drops at approximately the same prices. For example, an Aero Class car will remain the same cost from drop to drop. This does not apply to other types of ownable game assets.
 
-Everything about RACEFI our team build will give players a fair amount of opportunity.
+Everything about UNIRACING our team build will give players a fair amount of opportunity.
