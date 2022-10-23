@@ -4,7 +4,7 @@ Playing the game consists of buying a car, buy gas for your car, selecting a rac
 
 ### **Buy Gas**
 
-In order to enter a race, you must first buy enough gas. Gas is purchased in virtual gallons, with each gallon costing about $1 USD. All purchases and winnings in the game are paid in $~~RAFI~~RACEFI tokens, but costs are quoted in USD to maximize ease of understanding and to maintain consistent prices. All races are shown as "1 GAL" or "5 GAL" races. This means that you will need 1 gallon of gas to enter a "1 GAL" race.
+In order to enter a race, you must first buy enough gas. Gas is purchased in virtual gallons, with each gallon costing about $1 USD. All purchases and winnings in the game are paid in $**UNIRACING** tokens, but costs are quoted in USD to maximize ease of understanding and to maintain consistent prices. All races are shown as "1 **UNI**" or "5 **UNI**" races. This means that you will need 1 gallon of gas to enter a "1 **UNI**" race.
 
 ### Selecting a Race
 

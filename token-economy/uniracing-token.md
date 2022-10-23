@@ -4,7 +4,7 @@
 
 **Symbol: $UNI**
 
-The native cryptographically-secured fungible protocol token of UNI RACING (ticker symbol **$UNI**) is a transferable representation of attributed governance and utility functions specified in the protocol/code of **UNIRACING**, and which is designed to be used solely as an interoperable utility token thereon.
+The native cryptographically-secured fungible protocol token of **UNI RACING** (ticker symbol **$UNI**) is a transferable representation of attributed governance and utility functions specified in the protocol/code of **UNIRACING**, and which is designed to be used solely as an interoperable utility token thereon.
 
 $**UNI** is a functional multi-utility token which will be used as the medium of exchange between participants on **UNIRACING** in a decentralized manner. The goal of introducing $**UNI** is to provide a convenient and secure mode of payment and settlement between participants who interact within the ecosystem on **UniRacing** without any intermediaries such as centralized third party entity/institution/credit. It is not, and not intended to be, a medium of exchange accepted by the public (or a section of the public) as payment for goods or services or for the discharge of a debt; nor is it designed or intended to be used by any person as payment for any goods or services whatsoever that are not exclusively provided by the issuer. $**UNI** does not in any way represent any shareholding, participation, right, title, or interest in the Company, the Distributor, their respective affiliates, or any other company, enterprise or undertaking, nor will $**UNI** entitle token holders to any promise of fees, dividends, revenue, profits or investment returns, and are not intended to constitute securities in **Vietnam**, **Singapore** or any relevant jurisdiction. $**UNI** may only be utilized on **UNI**, and ownership of $**UNI** carries no rights, express or implied, other than the right to use $UNI as a means to enable usage of and interaction within Governance incentives.
 
@@ -12,29 +12,29 @@ $UNI also provides the economic incentives which will be distributed to encourag
 
 It allows players to buy game assets, game consumables (e.g. gas), stake to participate in certain exclusive events or in-game benefits, and participate in Racetrack auctions. All prices in the game will be quoted in $**USD**. This will allow players to focus on the game and not worry about potential fluctuations in the price of $**UNI**.
 
-**Only 200.000.000 $UNI tokens will be minted.**
+**Only 100.000.000 $UNI tokens will be minted.**
 
 | Allocation                  | %   | Amount     |
 | --------------------------- | --- | ---------- |
-| Funds                       | 20% | 40.000.000 |
-| Play to Earn / Game Rewards | 30% | 60.000.000 |
-| Reserve                     | 20% | 40.000.000 |
-| Marketing & Partnership     | 4%  | 8.000.000  |
-| Team & Advisor              | 20% | 40.000.000 |
-| Liquidity & Listing         | 5%  | 10.000.000 |
-| Airdrop                    | 1%  | 2.000.000  |
+| Funds                       | 20% | 20.000.000 |
+| Play to Earn / Game Rewards | 30% | 30.000.000 |
+| Reserve                     | 20% | 20.000.000 |
+| Marketing & Partnership     | 4%  | 4.000.000  |
+| Team & Advisor              | 20% | 20.000.000 |
+| Liquidity & Listing         | 5%  | 5.000.000  |
+| Airdrop                    | 1%  | 1.000.000  |
 
 **Token Economics**
 
-The UNI token is designed and intended to be a utility governance token, the currency inside the racing game.
+The **UNI** token is designed and intended to be a utility governance token, the currency inside the racing game.
 
 &#x20;
 
 **Token Flow**
 
-The UNI token is designed to flow in and out of the game and the community. Players buy the token in order to play the game and buy game assets. Players also win the token as a reward when they win races in the game. Eventually, the intention is for all game asset drops to be purchased in UNI tokens. This will happen after the token is relatively easy to acquire and sell on a decentralized exchange.
+The **UNI** token is designed to flow in and out of the game and the community. Players buy the token in order to play the game and buy game assets. Players also win the token as a reward when they win races in the game. Eventually, the intention is for all game asset drops to be purchased in **UNI** tokens. This will happen after the token is relatively easy to acquire and sell on a decentralized exchange.
 
-The UNI token and its use in the game is designed to promote the use of the token and how that results in increased use of the game and its assets. The more the game is played, the greater the demand for game assets which further encourages players to play the game more and buy more game assets. This creates a healthy circulation for ecosystem token usage.
+The **UNI** token and its use in the game is designed to promote the use of the token and how that results in increased use of the game and its assets. The more the game is played, the greater the demand for game assets which further encourages players to play the game more and buy more game assets. This creates a healthy circulation for ecosystem token usage.
 
 Special attention was made to ensure the token had as much balance as possible between the inflow and outflow. The desired outcome here is that there is not more demand to buy the token than to sell it, or vice versa.
 
