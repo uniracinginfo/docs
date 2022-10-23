@@ -52,3 +52,13 @@
 ***
 
 * [🎖 Fan Club](fan-club.md)
+
+## GOVERNANCE
+
+* [🪧 Council Of Players](governance/council-of-players.md)
+* [👨💻 Balancing via Governance](governance/balancing-via-governance.md)
+* [👨💼 Governance incentives](governance/governance-incentives.md)
+
+## © RACEFI | All RIGHT RESERVED 2021
+
+* [Disclaimers](c-racefi-or-all-right-reserved-2021/disclaimers.md)

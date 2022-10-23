@@ -25,7 +25,7 @@
 
 * Launch MAP game version
 * NFT Cars release phase 3
-* UNIRACING UNI holders will also **get early access to the platform** and will **be the first ones invited to test** game features**.**
+* **UNIRACING** UNI holders will also **get early access to the platform** and will **be the first ones invited to test** game features**.**
 
 **QI, 2023**
 

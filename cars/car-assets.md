@@ -2,7 +2,7 @@
 
 ### **Cars form the core asset of the game** &#x20;
 
-Cars are required to play the game. Players have toy cars from the verified UNIRACING Car Collection on the Marketplace.
+Cars are required to play the game. Players have toy cars from the verified **UNIRACING** Car Collection on the Marketplace.
 
 From time to time new cars will be released (or dropped). The first set of cars released is the Genesis Collection, consisting of **5000** cars.  During the drops, a variety of cars in different Car Classes are released.
 
