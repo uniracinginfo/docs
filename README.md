@@ -4,7 +4,12 @@ description: "\bUNIRACING is a play-to-earn car racing game where players and pa
 
 # 🏁 Introduction
 
-**UNIRACING** is a play-to-earn car racing game where players and participants own parts of the game. Players can earn by playing interacting within the game. All ownable parts of the game are in the form of verifiably owned NFTs. \
+**UNIRACING** is a play-to-earn car racing game where players and participants own parts of the game. Players can earn by playing interacting within the game. All ownable parts of the game are in the form of verifiably owned NFTs.&#x20;
+
+
+
+<figure><img src=".gitbook/assets/logo.45433236.svg" alt=""><figcaption></figcaption></figure>
+
 \
 **UNIRACING** is the first AI/ML integrated car racing game on **Ethereum** ecosystem. Within UNIRACING's metaverse, players can earn while enjoying various game modes to satisfy the thirst for speed, or make a profit by controlling in-game property and interacting with our ecosystem players. The two main game features are Pure Race and Battle Race. Pure Race includes two game modes: PvP and PvE. In PvE mode, the players will directly drive and control the car, whereas in PvP mode the players will customize their strategic statistics and then the AI system will analyze the result of the race. In terms of Battle Race, the players must upgrade their cars with battle features such as guns and shields. There will be no time limit or no finish line, the players will continue to race and attack each other until there is only one survivor left, and that car will become the winner of the battle race.&#x20;
 
